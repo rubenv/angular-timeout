@@ -36,6 +36,8 @@ angular.module('myApp').controller('testCtrl', function ($scope, scopedTimeout) 
 });
 ```
 
+For intervals, use `scopedTimeout($scope).interval(fn, time)`.
+
 ## License 
 
     (The MIT License)
