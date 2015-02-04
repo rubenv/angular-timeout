@@ -1,6 +1,6 @@
 {
   "name": "angular-timeout",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Scoped timeouts/intervals for Angular.JS.",
   "main": "dist/angular-timeout.js",
   "scripts": {
